@@ -1,2 +1,1 @@
-# softuni-spring-fundamentals
-Our joint work in the course
+Here are located the exercises that we do together in the Spring fundamentals course.
